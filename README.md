@@ -1,2 +1,5 @@
 # DataStructure
-A disciplina faz parte da grade de graduação de Engenharia da Computação na UFRN e tem como objetivo principal o estudo de Complexidade de Algoritmos e Grafos
+
+A disciplina integra a grade curricular da Engenharia da Computação na UFRN, visando explorar a Complexidade de Algoritmos e Grafos como foco principal.
+
+
