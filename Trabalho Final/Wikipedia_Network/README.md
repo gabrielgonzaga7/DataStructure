@@ -7,7 +7,7 @@ O objetivo final é analisar e visualizar a rede resultante formada pelos links 
 ## Vídeo explicativo
 
 O vídeo contendo uma breve explicação sobre o projeto desenvolvido pode ser visualizado aqui:
-- [LINK DO VÍDEO]
+- [LINK DO VÍDEO](https://www.youtube.com/watch?v=r_Z8ZE0zTC8&feature=youtu.be)
 
 
 ## Requisitos
@@ -102,5 +102,5 @@ A rede completa pode ser vista no link a seguir.
 ## Créditos
 
 Desenvolvido por:
-- [Gabriel Gonzaga de Luna Freire]
+- [Gabriel Gonzaga de Luna Freire](https://github.com/gabrielgonzaga7)
 
